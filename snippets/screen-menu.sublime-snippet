@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div data-bb-type="menu">
+    <div data-bb-type="menu-item" data-bb-img="" onclick=""></div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bbui.menu</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

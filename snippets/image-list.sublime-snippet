@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<div data-bb-type="image-list">
+	<div data-bb-type="item" data-bb-img="" data-bb-title="" data-bb-accent-text=""></div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bbui.imagelist</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

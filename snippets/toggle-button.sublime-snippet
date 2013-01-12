@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div data-bb-type="toggle" data-bb-on="Yes" data-bb-off="No" onchange=""></div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bbui.toggle</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+bb.init({
+	onbackkey: null,                   // Custom handler for back key on BlackBerry 5/6/7 smartphones
+	onscreenready: null,               // Manipulate your screen before it's inserted into the DOM
+	ondomready: null,                  // Manipulate your screen after it's inserted into the DOM
+	coloredTitleBar: false,            // If set to true, the title bar will be colored based on the highlight color
+	actionBarDark: true,               // If set to true, the action bar will use the dark theme
+	controlsDark: false,               // If set to true, the controls will use the dark theme
+	listsDark: false,                  // If set to true, lists will use the dark theme (you need a dark background)
+	highlightColor: '#00A8DF',         // A highlight color to use when a user selects an item
+	bb10ForPlayBook: false             // If set to true, PlayBook will be considered a BB10 device
+});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bbui.toolkit</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

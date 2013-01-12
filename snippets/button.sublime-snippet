@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div data-bb-type="button" onclick="" id=""></div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bbui.button</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
