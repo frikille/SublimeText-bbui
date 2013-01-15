@@ -43,7 +43,7 @@ Available snippet triggers:
 		<td>Control group</td>
 	</tr>
 	<tr>
-		<td>bbuui.grid</td>
+		<td>bbui.grid</td>
 		<td>Grid list</td>
 	</tr>
 	<tr>
@@ -116,4 +116,4 @@ Available snippet triggers:
 Install
 -------
 
-Currently no installer, simple put the downloaded files under snippets folder under Packages/User/bbui-snippets
+Currently no installer, simply put the downloaded files under snippets folder to  Packages/User/bbui-snippets folder
