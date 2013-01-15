@@ -1,12 +1,11 @@
 <snippet>
 	<content><![CDATA[
-<div data-bb-type="pill-buttons">
-	<div data-bb-type="pill-button" data-bb-selected="true" onclick="$1">$2</div>
-	<div data-bb-type="pill-button" data-bb-selected="false" onclick="$3">$4</div>
+<div data-bb-type="group" data-bb-title="$1">
+	$2
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>bbui.pillbtns</tabTrigger>
+	<tabTrigger>bbui.group</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html</scope>
 </snippet>

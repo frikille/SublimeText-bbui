@@ -1,11 +1,9 @@
 <snippet>
 	<content><![CDATA[
-<div data-bb-type="bbm-bubble" data-bb-style="left">
-	<div data-bb-type="item" data-bb-img="$1">$2</div>
-</div>
+<div data-bb-type="item" data-bb-img="$1" data-bb-title="$2" onclick="$3">$4</div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>bbui.bbm-bubble</tabTrigger>
+	<tabTrigger>bbui.griditem</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html</scope>
 </snippet>
