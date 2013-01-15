@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<div data-bb-type="button" onclick="" id=""></div>
+<div data-bb-type="button" onclick="$1" id="$2"></div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bbui.button</tabTrigger>

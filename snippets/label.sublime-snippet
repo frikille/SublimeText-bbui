@@ -2,15 +2,13 @@
 	<content><![CDATA[
 <div data-bb-type="label-control-container">
 	<div data-bb-type="row">
-		<div data-bb-type="label"></div>
-	</div>
-	<div data-bb-type="row">
-		<div data-bb-type="label"></div>
+		<div data-bb-type="label">$1</div>
+		$2
 	</div>
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>bbui.label</tabTrigger>
+	<tabTrigger>bbui.labelcontrol</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html</scope>
 </snippet>

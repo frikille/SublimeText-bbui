@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<div data-bb-type="screen" id="">
+<div data-bb-type="screen" id="$1">
+	$2
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

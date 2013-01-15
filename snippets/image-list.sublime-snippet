@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <div data-bb-type="image-list">
-	<div data-bb-type="item" data-bb-img="" data-bb-title="" data-bb-accent-text=""></div>
+	<div data-bb-type="item" data-bb-img="$1" data-bb-title="$2" data-bb-accent-text="$3">$4</div>
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <div data-bb-type="scroll-panel">
+	$1
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

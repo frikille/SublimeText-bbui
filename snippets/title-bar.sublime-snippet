@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<div data-bb-type="title" data-bb-caption="" ></div>
+<div data-bb-type="title" data-bb-caption="$1" ></div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bbui.title</tabTrigger>

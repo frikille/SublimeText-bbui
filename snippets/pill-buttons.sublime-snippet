@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
 <div data-bb-type="pill-buttons">
-	<div data-bb-type="pill-button" data-bb-selected="true" onclick=""></div>
-	<div data-bb-type="pill-button" onclick=""></div>
-	<div data-bb-type="pill-button" onclick=""></div>
+	<div data-bb-type="pill-button" data-bb-selected="true" onclick="$1">$2</div>
+	<div data-bb-type="pill-button" data-bb-selected="false" onclick="$3">$4</div>
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

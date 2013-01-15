@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
 <div data-bb-type="action-bar">
-    <div data-bb-type="action" data-bb-style="button" data-bb-overflow="false" data-bb-img=""></div>
+    <div data-bb-type="action" data-bb-style="button" data-bb-overflow="false" data-bb-img="$1">$2</div>
 </div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>bbui.btn.ab</tabTrigger>
+	<tabTrigger>bbui.btn-ab</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html</scope>
 </snippet>

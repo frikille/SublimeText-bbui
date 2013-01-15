@@ -1,9 +1,15 @@
 <snippet>
 	<content><![CDATA[
-
+<div data-bb-type="grid-layout">
+	<div data-bb-type="group" data-bb-title="">
+		<div data-bb-type="row">
+			<div data-bb-type="item" data-bb-img="$1" data-bb-title="$2" onclick="$3">$4</div>
+		</div>
+	</div>
+</div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>bbui.</tabTrigger>
+	<tabTrigger>bbui.grid</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html</scope>
 </snippet>

@@ -1,9 +1,11 @@
 <snippet>
 	<content><![CDATA[
-
+<div data-bb-type="round-panel"> 
+	<div data-bb-type="panel-header">$1</div>
+</div>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>bbui.</tabTrigger>
+	<tabTrigger>bbui.controlgroup</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>text.html</scope>
 </snippet>
