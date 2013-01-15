@@ -5,31 +5,113 @@ Code snippets for bbui.js for SublimeText
 
 Available snippet triggers:
 
-- bbui.bbm-bubble 			BBM Bubble
-- bbui.bbmitem 				BBM Item
-- bbui.btn-ab 				Action bar with buttons
-- bbui.btn-ab-item 			Item for action bar with buttons
-- bbui.button 				Button
-- bbui.contextmenu 			Context menu
-- bbui.context-item 		Context menu item
-- bbui.controlgroup 		Control group
-- bbui.grid 				Grid list
-- bbui.griditem 			Grid list item
-- bbui.group 				Group (inside image list or grid)
-- bbui.imagelist 			Image list
-- bbui.indicator 			Activity indicator
-- bbui.labelcontrol 		Label control
-- bbui.pillbtns 			Pill buttons
-- bbui.pillbtn 				Pill button (inside pill buttons)
-- bbui.menu 				Screen menu
-- bbui.row 					Row (inside groups)
-- bbui.screen 				Screen
-- bbui.scroll 				Scroll panel
-- bbui.title 				Title bar
-- bbui.tab-ab 				Action bar with tabs
-- bbui.tab-ab-item 			Item for action bar with tabs
-- bbui.toggle 				Toggle button
-- bbui.toolkit 				Toolkit initializing 		
+<table>
+	<tr>
+		<th>Tab trigger</th>
+		<th>Created html tag</th>
+	</tr>
+	<tr>
+		<td>bbui.bbm-bubble</td>
+		<td>BBM Bubble</td>
+	</tr>
+	<tr>
+		<td>bbui.bbmitem</td>
+		<td>BBM iubble item</td>
+	</tr>
+	<tr>
+		<td>bbui.btn-ab</td>
+		<td>Action bar with buttons</td>
+	</tr>
+	<tr>
+		<td>bbui.btn-ab-item</td>
+		<td>Item for action bar with buttons</td>
+	</tr>
+	<tr>
+		<td>bbui.button</td>
+		<td>Button</td>
+	</tr>
+	<tr>
+		<td>bbui.contextmenu</td>
+		<td>Context menu</td>
+	</tr>
+	<tr>
+		<td>bbui.context-item</td>
+		<td>Context menu item</td>
+	</tr>
+	<tr>
+		<td>bbui.controlgroup</td>
+		<td>Control group</td>
+	</tr>
+	<tr>
+		<td>bbuui.grid</td>
+		<td>Grid list</td>
+	</tr>
+	<tr>
+		<td>bbui.griditem</td>
+		<td>Grid list item</td>
+	</tr>
+	<tr>
+		<td>bbui.group</td>
+		<td>Group (in image lists or grid lists</td>
+	</tr>
+	<tr>
+		<td>bbui.imagelist</td>
+		<td>Image list</td>
+	</tr>
+	<tr>
+		<td>bbui.indicator</td>
+		<td>Activity indicator</td>
+	</tr>
+	<tr>
+		<td>bbui.labelcontrol</td>
+		<td>Label control</td>
+	</tr>
+	<tr>
+		<td>bbui.pillbtns</td>
+		<td>Pill buttons</td>
+	</tr>
+	<tr>
+		<td>bbui.pillbtn</td>
+		<td>Pill button (inside pill buttons)</td>
+	</tr>
+	<tr>
+		<td>bbui.menu</td>
+		<td>Screen menu</td>
+	</tr>
+	<tr>
+		<td>bbui.row</td>
+		<td>Row (inside groups)</td>
+	</tr>
+	<tr>
+		<td>bbui.screen</td>
+		<td>Screen</td>
+	</tr>
+	<tr>
+		<td>bbui.scroll</td>
+		<td>Scroll panel</td>
+	</tr>
+	<tr>
+		<td>bbui.title</td>
+		<td>Title bar</td>
+	</tr>
+	<tr>
+		<td>bbui.tab-ab</td>
+		<td>Action bar with tabs</td>
+	</tr>
+	<tr>
+		<td>bbui.tab-ab-item</td>
+		<td>Item for action bar with tabs</td>
+	</tr>
+	<tr>
+		<td>bbui.toggle</td>
+		<td>Toggle button</td>
+	</tr>
+	<tr>
+		<td>bbui.toolkit</td>
+		<td>Toolkit initializing</td>
+	</tr>
+</table>
+
 
 Install
 -------
